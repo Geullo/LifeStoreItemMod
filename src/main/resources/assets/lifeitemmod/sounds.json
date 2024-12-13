@@ -1,0 +1,26 @@
+{
+   "artist.cd.1":{
+      "sounds":[{
+         "name":"lifeitemmod:cd_1",
+         "stream": true
+      }]
+   },
+   "artist.cd.2":{
+      "sounds":[{
+         "name":"lifeitemmod:cd_2",
+         "stream": true
+      }]
+   },
+   "artist.cd.3":{
+      "sounds":[{
+         "name":"lifeitemmod:cd_3",
+         "stream": true
+      }]
+   },
+   "artist.cd.4":{
+      "sounds":[{
+         "name":"lifeitemmod:cd_4",
+         "stream": true
+      }]
+   }
+}

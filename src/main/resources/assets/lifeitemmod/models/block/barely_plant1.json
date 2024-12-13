@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "lifeitemmod:blocks/vulgare_stage_1"
+  }
+}

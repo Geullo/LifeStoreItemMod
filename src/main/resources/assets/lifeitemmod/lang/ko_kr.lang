@@ -1,0 +1,287 @@
+itemGroup.lifeitemmod=인생상회 아이템
+item.record.cd1.desc=예술가곡 1번
+item.record.cd2.desc=예술가곡 2번
+item.record.cd3.desc=예술가곡 3번
+item.record.cd4.desc=예술가곡 4번
+
+item.golden_necklace.name=금 목걸이
+item.golden_ring.name=금 반지
+
+item.diamond_necklace.name=다이아몬드 목걸이
+item.diamond_ring.name=다이아몬드 반지
+
+item.chung_necklace.name=청 목걸이
+item.lemon_ring.name=레몬 반지
+item.rose_necklace.name=장미 목걸이
+
+item.aqua_marin_necklace.name=아쿠아마린 목걸이
+item.aqua_marin_ring.name=아쿠아마린 반지
+
+item.normal_necklace.name=일반 목걸이
+item.normal_ring.name=일반 반지
+
+item.rose_golden_necklace.name=로즈 골드 목걸이
+item.rose_golden_ring.name=로즈 골드 반지
+
+item.ruby_necklace.name=루비 목걸이
+item.ruby_ring.name=루비 반지
+
+item.silver_necklace.name=은 목걸이
+item.silver_ring.name=은 반지
+
+item.topaz_necklace.name=토파즈 목걸이
+item.topaz_ring.name=토파즈 반지
+
+item.luxury_daisy_sac.name=고급 데이지 향낭
+item.luxury_lavender_sac.name=고급 라일락 향낭
+item.luxury_rose_sac.name=고급 장미 향낭
+item.daisy_sac.name=데이지 향낭
+item.lavender_sac.name=라일락 향낭
+item.rose_sac.name=장미 향낭
+
+item.beads.name=염주
+item.beads_ball.name=염주 구슬
+item.dream_catcher.name=드림 캐쳐
+item.favor_charm.name=호감도 부적
+item.lemon_diffuser.name=레몬 디퓨저
+item.manneung_charm.name=만능 부적
+item.mubok.name=무복
+item.drawing_paper.name=도화지
+
+item.shaman_bubble.name=무당방울
+item.bubble.name=방울
+
+item.charm.name=부적
+
+item.fan.name=부채
+
+item.pocket.name=주머니
+
+item.korean_paper.name=한지
+
+item.bread.name=빵
+item.egg_bread.name=계란빵
+item.egg_bread_bundle.name=계란빵 묶음
+item.chocolate_bread.name=초코빵
+item.hot_bread.name=핫빵
+item.hot_bread_bundle.name=핫빵 묶음
+item.hot_bread_box.name=핫빵 박스
+item.hot_kimchi_box.name=핫김치빵 박스
+
+item.noodle.name=면
+item.hot_noodle.name=식라면
+item.hot_noodle_edition.name=식라면 에디션
+item.hot_noodle_box.name=식라면 박스
+
+item.box.name=대형 박스
+item.small_box.name=소형 박스
+item.charm_box.name=띵부적 박스
+
+
+item.sampo_flour.name=삼포밀가루
+
+item.rice.name=양미
+
+item.chocolate.name=초콜릿
+item.chocolate_bread_bundle.name=초코빵 묶음
+item.chocolate_bread_box.name=초코빵 박스
+
+item.chocolate_milk.name=초코우유
+item.chocolate_milk_bundle.name=초코우유 묶음
+item.chocolate_seal.name=초코띠부
+
+item.hot_seal.name=핫띠부
+item.dding_seal.name=띵부실
+item.dding_seal_box.name=띵부실 박스
+
+item.plastic_bag.name=포장지
+
+item.instance_kimchi.name=김장김치
+item.kimchi_rice.name=김치 볶음밥
+item.fried_kimchi.name=김치전
+item.old_kimchi.name=묵은지
+item.fried_old_kimchi.name=묵은지 김치전
+item.pork_old_kimchi.name=묵은지 소갈비찜
+item.sour_kimchi.name=쉰김치
+item.bossam.name=보쌈
+item.chicken_beer.name=치맥
+item.dding_grand_bossam.name=띵할머니 보쌈
+item.donut_fried_kimchi.name=도넛 김치전
+item.kimchi_soup.name=묵은지 김치찌개
+
+
+item.korean_meal.name=백반정식
+
+item.chicken_soup.name=백숙
+
+item.meat_rice.name=소고기 덮밥
+item.meat_bul.name=소불고기
+
+item.pork.name=수육
+
+item.jmt_rice.name=쌀밥
+item.chicken.name=치킨
+
+item.empty_cd.name=빈CD
+item.cd1.name=CD 1
+item.cd2.name=CD 2
+item.cd3.name=CD 3
+item.cd4.name=CD 4
+
+item.picture.name=그림
+
+item.story_book.name=동화책
+
+item.paint_tube.name=물감 튜브
+item.red_paint.name=빨강 물감
+item.green_paint.name=초록 물감
+item.blue_paint.name=파랑 물감
+item.music_box.name=오르골
+item.red_apron.name=빨강 앞치마
+item.special_sticker.name=특별 스티커북
+
+item.music1.name=악보 1
+item.music2.name=악보 2
+item.music3.name=악보 3
+item.music4.name=악보 4
+
+item.album1.name=앨범 1
+item.album2.name=앨범 2
+item.album3.name=앨범 3
+item.album4.name=앨범 4
+
+item.leather_jacket.name=가죽 자켓
+
+item.artificial_leather.name=세공가죽
+item.black_leather.name=검은색 세공가죽
+item.white_leather.name=하얀색 세공가죽
+
+item.cloth.name=천
+
+item.shoes.name=가죽 구두
+item.exercise_shoes.name=운동화
+item.curse_doll.name=저주 인형
+item.lace.name=끈
+item.string_bunch.name=실타래
+
+item.red_fabric.name=빨강 원단
+item.red_tshirt.name=빨강 티셔츠
+
+item.aquamarine_shirt.name=아쿠아마린 셔츠
+item.flower_shoes.name=꽃신
+item.wine_dress.name=와인 원피스
+
+item.blue_fabric.name=파랑 원단
+item.blue_jeans.name=청바지
+item.blue_tshirt.name=파랑 티셔츠
+
+
+item.god_thing.name=갓띵
+
+item.glass.name=병
+
+item.makgeolli.name=막걸리
+item.three_makgeolli.name=막걸리 (3병)
+item.coffee_makgeolli.name=커피막걸리
+
+item.beer.name=맥주
+item.three_beer.name=맥주 (3병)
+
+item.milk_punch.name=밀크 펀치
+item.fish_tear.name=인어의 눈물
+item.flower_shangria.name=플라워 샹그리아
+item.lemon_drop.name=레몬 드롭
+item.makgeolli_jeongsik.name=막걸리 정식
+
+item.board_car.name=보드카
+
+item.blue_hawaii.name=블루 하와이
+
+item.shangria.name=샹그리아
+
+item.wine.name=와인
+
+item.whiskey.name=위스키
+
+item.choco_mat.name=초코마티니
+
+item.lacquer_tree_resin.name=옻나무 진액
+item.oak_chair.name=참나무 의자
+item.oak_shelf.name=참나무 선반
+item.oak_table.name=참나무 책상
+item.darkoak_cupboard.name=짙은참나무 장식장
+item.burin.name=조각칼
+
+item.acacia_bird.name=아카시아 새
+item.spruce_clock.name=가문비나무 시계
+item.birch_fan.name=자작나무 부채
+item.jungle_rocking_chair.name=정글나무 흔들의자
+
+item.oak_food_table.name=참나무 식탁
+item.darkoak_jagaejang.name=짙은참나무 자개장
+item.wonang_pair.name=원앙 장식
+item.cuckoo_clock.name=뻐꾸기 시계
+item.birch_folding_screen.name=자작나무 병풍
+item.jungle_swing.name=나무 그네
+
+item.special_oak_chair.name=고급 의자
+item.special_oak_shelf.name=고급 선반
+item.special_oak_table.name=고급 책상
+item.special_darkoak_cupboard.name=고급 장식장
+
+item.special_acacia_bird.name=고급 새
+item.special_spruce_clock.name=고급 시계
+item.special_birch_fan.name=고급 부채
+item.special_jungle_rocking_chair.name=고급 흔들의자
+
+item.special_oak_food_table.name=고급 식탁
+item.special_darkoak_jagaejang.name=고급 자개장
+item.special_wonang_pair.name=고급 장식
+item.special_cuckoo_clock.name=고급 뻐꾸기 시계
+item.special_birch_folding_screen.name=고급 병풍
+item.special_jungle_swing.name=고급 그네
+
+item.ruby_jagaejang.name=황금 자개장
+item.leather_partion.name=가죽 파티션
+item.wine_table.name=와인 테이블
+
+item.cabbage.name=배추
+item.pepper.name=고추
+item.rice_crop.name=쌀
+item.vulgare.name=보리
+
+item.seeds_barley.name=보리 씨앗
+item.seeds_rice.name=쌀 씨앗
+item.seeds_pepper.name=고추 씨앗
+item.seeds_cabbage.name=배추 씨앗
+
+item.aquamarine_ingot.name=아쿠아마린
+item.gra_fru.name=포도
+item.iron_ingot.name=은
+item.note.name=음표
+item.oran_fru.name=오렌지
+item.lemon_fru.name=레몬
+item.rosegold_ingot.name=로즈골드
+item.ruby_ingot.name=루비
+item.topaz_ingot.name=토파즈
+item.upcore.name=X
+item.phone.name=핸드폰
+
+tile.aquamarine_ore.name=아쿠아마린 광석
+tile.lifeitem_rubys_ore.name=루비 광석
+tile.silver_ore.name=은 광석
+tile.topaz_ore.name=토파즈 광석
+
+effect.speed=신속
+
+itemGroup.JEWELER=보석상
+itemGroup.SHAMAN=무당
+itemGroup.SUPERMARKET=슈퍼 점장
+itemGroup.CHEF=요리사
+itemGroup.ARTIST=예술가
+itemGroup.DESIGNER=의복사
+itemGroup.BARKEEPER=조주사
+itemGroup.FURNITURE_MAKER=목수
+itemGroup.HARVEST=아이템
+
+item.land_selector.name=§f땅 문서
